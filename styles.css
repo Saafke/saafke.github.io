@@ -38,9 +38,9 @@
 	text-decoration: none;
 	transition: color .5s;
 }
-.nav-link-wrapper:hover {
+/* .nav-link-wrapper:hover {
 	border-bottom: 1px solid black;
-}
+} */
 .nav-link-wrapper a:hover {
 	color: orange;
 }
@@ -95,3 +95,4 @@
 video::-webkit-media-controls {
 	display:none !important;
 }
+
